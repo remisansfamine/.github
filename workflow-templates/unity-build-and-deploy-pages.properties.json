@@ -1,0 +1,5 @@
+{
+    "name": "Unity Build and Deploy Pages",
+    "description": "Action to build project with Unity WebGL and deploy to Github Pages.",
+    "iconName": "octicon browser"
+}
